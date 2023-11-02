@@ -21,6 +21,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating Spot Instances to On-Demand: Decreasing Costs of AWS Config and GuardDuty in AWS EKS](https://medium.com/@aenes45/migrating-spot-instances-to-on-demand-decreasing-costs-of-aws-config-and-guardduty-in-aws-eks-7279efaadfe2?source=rss-698620c48e61------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
