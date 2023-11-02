@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/ahmet-enes-yildiz-95b591152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet-enes-yildiz-95b591152" height="30" width="40" /></a>
 </p>
 
-# Blog posts
+### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
